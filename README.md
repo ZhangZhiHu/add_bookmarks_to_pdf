@@ -16,6 +16,7 @@ This project aims to add bookmarks to the pdf automatically.
     ![](/readmeFig/3.png)
     
 
-The new pdf and the table of contents will be created in this directory.For example,in the picture above,the file named 'test_new.pdf' is the new created pdf file with bookmarks and the file named 'test_toc.txt' is the structure of bookmarks.
-
+The new pdf and the table of contents will be created in this directory.For example,in the picture above,the file named 'test_new.pdf' is the new created pdf file with bookmarks and the file named 'test_toc.txt' is the structure of bookmarks.Open the 'test_new.pdf' we can see that the bookmarks have been added.
+    ![](/readmeFig/5.png)
+    
     
