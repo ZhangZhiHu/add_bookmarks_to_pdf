@@ -11,11 +11,11 @@ This project aims to add bookmarks to the pdf automatically.
     ![](/readmeFig/4.png)
 4. find the page number of the first bookmarks from the target pdf
 5. open a command prompt window in the directory
-    ![](/readmeFig/3.png)
-6. type 'python addBookmarks.py pdfName pageNum' into the command prompt and run it.
     ![](/readmeFig/2.png)
+6. type 'python addBookmarks.py pdfName pageNum' into the command prompt and run it.
+    ![](/readmeFig/3.png)
     
 
-The new created pdf will be in the same directory.
+The new pdf and the table of contents will be created in this directory.For example,in the picture above,the file named 'test_new.pdf' is the new created pdf file with bookmarks and the file named 'test_toc.txt' is the structure of bookmarks.
 
     
